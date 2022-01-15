@@ -1,0 +1,16 @@
+export const CREATE_CAMPAIGN ="CREATE_CAMPAIGN";
+
+export const UPDATE_CAMPAIGN ="UPDATE_CAMPAIGN";
+
+export const DELETE_CAMPAIGN ="DELETE_CAMPAIGN";
+
+export const LOAD_CAMPAIGN ="LOAD_CAMPAIGN";
+
+
+export const LOAD_DONATION ="LOAD_DONATION";
+export const CREATE_DONATION ="CREATE_DONATION";
+
+export const LOAD_STORE ="LOAD_STORE";
+
+export const LOG_IN= "LOG_IN";
+export const LOG_OUT= "LOG_OUT";
